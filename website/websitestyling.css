@@ -1,0 +1,15 @@
+body{margin: 0px;padding: 0px;background-image: url(https://wp-mktg.prod.getty1.net/istockcontentredesign/wp-content/uploads/sites/5/2021/03/2021_iStock_LatestBGTrends_Hero.jpg.jpeg);background-repeat: no-repeat;background-size:100%;}
+.left{display: inline-block;position:absolute;left:50px;top:30px;line-height: 10px;font-size: 20px;}
+.mid{display: inline-block;display: block;width: 33%;margin:auto;margin-top: 30px;}
+.right{display: inline-block;position:absolute;right:50px;top:30px}
+.navbar li{display: inline-block}
+.navbar li a{color: white;text-decoration: none;padding: 20px;font-size: 20px; font-style: italic;}
+.navbar li a:hover,.navbar li a:active{text-decoration: underline;color: grey;}
+.left img{width: 100px;}
+.left div{text-align: center;font-size:18px;line-height: 20px;font-style: italic;}
+.btn{margin: 0px 10px;color: black;background-color: white;padding: 5px 10px;border: 2px solid;border-radius: 5px;font-size: 15px;cursor: pointer;}
+.btn:hover{background-color: grey;}
+.container{margin: 2px 2px;padding: 75px;margin-top: 100px;border-radius: 20px;width: 33%;}
+.form-group input{width: 40%;text-align: center;display: block;padding: 6px;border: 2px solid black;margin: 10px auto;border-radius: 10px;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.container h1{text-align: center;font-family:Verdana, Geneva, Tahoma, sans-serif;color: white;font-size: 20px;}
+.form-group button{display: block;width: 20%;margin: auto;width: 43%;border-radius: 10px;text-decoration-color: black;}
